@@ -1,0 +1,18 @@
+body{
+  background-image: url(http://s.eatthis-cdn.com/media/images/ext/842849976/greasy-fast-food.jpg);
+  no-repeat center center fixed;
+  background-size: cover;
+  opacity: 1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+a {
+  font-size: 50px;
+}
+h1 {
+  font-size: 100px;
+  color: red;
+}
